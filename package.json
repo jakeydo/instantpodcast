@@ -1,0 +1,20 @@
+{
+  "name": "instantpodcast",
+  "version": "0.0.1",
+  "repository": "https://github.com/jakeydo/instantpodcast",
+  "description": "Upload mp3s to dropbox, build rss feed, upload feed to dropbox, email feedlink.",
+  "main": "instantpodcast.js",
+  "author": "Jake Spencer",
+  "dependencies": {
+    "request": "latest",
+    "rss": "latest",
+    "async": "latest",
+    "nodemailer": "latest",
+    "progress-stream": "latest"
+  },
+  "keywords": [
+    "podcast",
+    "dropbox"
+  ],
+  "license": "MIT"
+}
